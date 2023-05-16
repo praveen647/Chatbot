@@ -1,11 +1,11 @@
 Team name: Automates
 Team members: 
-Shoban S
-Praveen Kumar R
-Siva Priya KA
-Rohan Jeyan
-Prathika PR
-Roshna OS
+(1)Shoban S
+(2)Praveen Kumar R
+(3)Siva Priya KA
+(4)Rohan Jeyan
+(5)Prathika PR
+(6)Roshna OS
               
 Aim of the project: 
 To determine the purpose of the chatbot in the case, the goal is to provide mental health support to the users.To identify the common mental health concerns abd issues may face, such as stress, anxiety, depression and trauma.
